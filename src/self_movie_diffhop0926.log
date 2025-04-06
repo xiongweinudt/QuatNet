@@ -1,0 +1,137 @@
+nohup: ignoring input
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8908  acc: 0.8072    eval auc: 0.8876  acc: 0.8063    test auc: 0.8860  acc: 0.8039
+epoch 1    train auc: 0.9005  acc: 0.8189    eval auc: 0.8948  acc: 0.8148    test auc: 0.8935  acc: 0.8139
+epoch 2    train auc: 0.9201  acc: 0.8417    eval auc: 0.9087  acc: 0.8327    test auc: 0.9072  acc: 0.8300
+epoch 3    train auc: 0.9256  acc: 0.8483    eval auc: 0.9125  acc: 0.8356    test auc: 0.9116  acc: 0.8344
+epoch 4    train auc: 0.9357  acc: 0.8609    eval auc: 0.9178  acc: 0.8422    test auc: 0.9177  acc: 0.8419
+epoch 5    train auc: 0.9405  acc: 0.8680    eval auc: 0.9201  acc: 0.8455    test auc: 0.9197  acc: 0.8445
+epoch 6    train auc: 0.9442  acc: 0.8717    eval auc: 0.9212  acc: 0.8458    test auc: 0.9201  acc: 0.8450
+epoch 7    train auc: 0.9467  acc: 0.8760    eval auc: 0.9212  acc: 0.8468    test auc: 0.9210  acc: 0.8461
+epoch 8    train auc: 0.9490  acc: 0.8795    eval auc: 0.9221  acc: 0.8486    test auc: 0.9224  acc: 0.8486
+epoch 9    train auc: 0.9519  acc: 0.8842    eval auc: 0.9210  acc: 0.8474    test auc: 0.9213  acc: 0.8471
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8890  acc: 0.8072    eval auc: 0.8843  acc: 0.8049    test auc: 0.8832  acc: 0.8037
+epoch 1    train auc: 0.8929  acc: 0.8090    eval auc: 0.8880  acc: 0.8076    test auc: 0.8856  acc: 0.8057
+epoch 2    train auc: 0.9073  acc: 0.8255    eval auc: 0.8979  acc: 0.8178    test auc: 0.8963  acc: 0.8182
+epoch 3    train auc: 0.9152  acc: 0.8359    eval auc: 0.9033  acc: 0.8273    test auc: 0.9020  acc: 0.8243
+epoch 4    train auc: 0.9237  acc: 0.8471    eval auc: 0.9080  acc: 0.8318    test auc: 0.9071  acc: 0.8299
+epoch 5    train auc: 0.9278  acc: 0.8510    eval auc: 0.9106  acc: 0.8339    test auc: 0.9094  acc: 0.8331
+epoch 6    train auc: 0.9336  acc: 0.8590    eval auc: 0.9139  acc: 0.8380    test auc: 0.9136  acc: 0.8377
+epoch 7    train auc: 0.9358  acc: 0.8613    eval auc: 0.9159  acc: 0.8421    test auc: 0.9145  acc: 0.8396
+epoch 8    train auc: 0.9366  acc: 0.8627    eval auc: 0.9161  acc: 0.8417    test auc: 0.9146  acc: 0.8388
+epoch 9    train auc: 0.9394  acc: 0.8647    eval auc: 0.9177  acc: 0.8398    test auc: 0.9164  acc: 0.8391
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8715  acc: 0.7943    eval auc: 0.8690  acc: 0.7920    test auc: 0.8657  acc: 0.7896
+epoch 1    train auc: 0.8942  acc: 0.8098    eval auc: 0.8879  acc: 0.8071    test auc: 0.8852  acc: 0.8043
+epoch 2    train auc: 0.8950  acc: 0.8105    eval auc: 0.8880  acc: 0.8077    test auc: 0.8856  acc: 0.8052
+epoch 3    train auc: 0.9091  acc: 0.8282    eval auc: 0.8999  acc: 0.8217    test auc: 0.8984  acc: 0.8207
+epoch 4    train auc: 0.9129  acc: 0.8331    eval auc: 0.9015  acc: 0.8238    test auc: 0.9001  acc: 0.8225
+epoch 5    train auc: 0.9158  acc: 0.8373    eval auc: 0.9013  acc: 0.8252    test auc: 0.9007  acc: 0.8245
+epoch 6    train auc: 0.9200  acc: 0.8416    eval auc: 0.9054  acc: 0.8284    test auc: 0.9041  acc: 0.8268
+epoch 7    train auc: 0.9231  acc: 0.8448    eval auc: 0.9078  acc: 0.8308    test auc: 0.9069  acc: 0.8295
+epoch 8    train auc: 0.9253  acc: 0.8477    eval auc: 0.9081  acc: 0.8316    test auc: 0.9064  acc: 0.8296
+epoch 9    train auc: 0.9267  acc: 0.8493    eval auc: 0.9109  acc: 0.8360    test auc: 0.9095  acc: 0.8333
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.5152  acc: 0.5104    eval auc: 0.4791  acc: 0.4866    test auc: 0.4783  acc: 0.4848
+epoch 1    train auc: 0.5190  acc: 0.5128    eval auc: 0.4720  acc: 0.4816    test auc: 0.4725  acc: 0.4813
+epoch 2    train auc: 0.5190  acc: 0.5135    eval auc: 0.4715  acc: 0.4797    test auc: 0.4734  acc: 0.4827
+epoch 3    train auc: 0.5179  acc: 0.5134    eval auc: 0.4730  acc: 0.4811    test auc: 0.4772  acc: 0.4845
+epoch 4    train auc: 0.5175  acc: 0.5135    eval auc: 0.4755  acc: 0.4845    test auc: 0.4798  acc: 0.4869
+epoch 5    train auc: 0.5183  acc: 0.5147    eval auc: 0.4794  acc: 0.4853    test auc: 0.4806  acc: 0.4869
+epoch 6    train auc: 0.5196  acc: 0.5212    eval auc: 0.4865  acc: 0.4978    test auc: 0.4889  acc: 0.4990
+epoch 7    train auc: 0.8810  acc: 0.8002    eval auc: 0.8763  acc: 0.7970    test auc: 0.8744  acc: 0.7960
+epoch 8    train auc: 0.8893  acc: 0.8057    eval auc: 0.8829  acc: 0.8033    test auc: 0.8809  acc: 0.8009
+epoch 9    train auc: 0.8916  acc: 0.8064    eval auc: 0.8849  acc: 0.8041    test auc: 0.8823  acc: 0.8025
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8922  acc: 0.8090    eval auc: 0.8885  acc: 0.8073    test auc: 0.8873  acc: 0.8059
+epoch 1    train auc: 0.8944  acc: 0.8111    eval auc: 0.8895  acc: 0.8083    test auc: 0.8878  acc: 0.8061
+epoch 2    train auc: 0.9181  acc: 0.8400    eval auc: 0.9068  acc: 0.8287    test auc: 0.9061  acc: 0.8277
+epoch 3    train auc: 0.9310  acc: 0.8559    eval auc: 0.9140  acc: 0.8388    test auc: 0.9140  acc: 0.8377
+epoch 4    train auc: 0.9390  acc: 0.8656    eval auc: 0.9179  acc: 0.8422    test auc: 0.9173  acc: 0.8406
+epoch 5    train auc: 0.9439  acc: 0.8723    eval auc: 0.9199  acc: 0.8445    test auc: 0.9191  acc: 0.8429
+epoch 6    train auc: 0.9477  acc: 0.8772    eval auc: 0.9207  acc: 0.8455    test auc: 0.9207  acc: 0.8451
+epoch 7    train auc: 0.9504  acc: 0.8806    eval auc: 0.9203  acc: 0.8447    test auc: 0.9204  acc: 0.8442
+epoch 8    train auc: 0.9545  acc: 0.8870    eval auc: 0.9190  acc: 0.8448    test auc: 0.9191  acc: 0.8436
+epoch 9    train auc: 0.9571  acc: 0.8891    eval auc: 0.9183  acc: 0.8439    test auc: 0.9182  acc: 0.8416
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8874  acc: 0.8065    eval auc: 0.8819  acc: 0.8041    test auc: 0.8805  acc: 0.8018
+epoch 1    train auc: 0.8953  acc: 0.8114    eval auc: 0.8885  acc: 0.8078    test auc: 0.8870  acc: 0.8065
+epoch 2    train auc: 0.8960  acc: 0.8111    eval auc: 0.8879  acc: 0.8064    test auc: 0.8862  acc: 0.8054
+epoch 3    train auc: 0.9127  acc: 0.8317    eval auc: 0.9007  acc: 0.8237    test auc: 0.8993  acc: 0.8220
+epoch 4    train auc: 0.9220  acc: 0.8433    eval auc: 0.9059  acc: 0.8290    test auc: 0.9049  acc: 0.8279
+epoch 5    train auc: 0.9273  acc: 0.8509    eval auc: 0.9093  acc: 0.8323    test auc: 0.9079  acc: 0.8326
+epoch 6    train auc: 0.9341  acc: 0.8594    eval auc: 0.9119  acc: 0.8372    test auc: 0.9119  acc: 0.8363
+epoch 7    train auc: 0.9359  acc: 0.8615    eval auc: 0.9144  acc: 0.8394    test auc: 0.9127  acc: 0.8377
+epoch 8    train auc: 0.9357  acc: 0.8620    eval auc: 0.9119  acc: 0.8381    test auc: 0.9109  acc: 0.8367
+epoch 9    train auc: 0.9362  acc: 0.8621    eval auc: 0.9141  acc: 0.8397    test auc: 0.9137  acc: 0.8389
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.5140  acc: 0.5093    eval auc: 0.4818  acc: 0.4875    test auc: 0.4823  acc: 0.4874
+epoch 1    train auc: 0.5201  acc: 0.5142    eval auc: 0.4727  acc: 0.4824    test auc: 0.4730  acc: 0.4821
+epoch 2    train auc: 0.5352  acc: 0.5299    eval auc: 0.4887  acc: 0.4981    test auc: 0.4905  acc: 0.4983
+epoch 3    train auc: 0.8915  acc: 0.8061    eval auc: 0.8855  acc: 0.8035    test auc: 0.8835  acc: 0.8004
+epoch 4    train auc: 0.8946  acc: 0.8098    eval auc: 0.8867  acc: 0.8062    test auc: 0.8846  acc: 0.8040
+epoch 5    train auc: 0.9106  acc: 0.8298    eval auc: 0.8997  acc: 0.8222    test auc: 0.8983  acc: 0.8212
+epoch 6    train auc: 0.9129  acc: 0.8333    eval auc: 0.9007  acc: 0.8232    test auc: 0.8992  acc: 0.8229
+epoch 7    train auc: 0.9136  acc: 0.8326    eval auc: 0.9001  acc: 0.8209    test auc: 0.8992  acc: 0.8207
+epoch 8    train auc: 0.9150  acc: 0.8355    eval auc: 0.9018  acc: 0.8243    test auc: 0.9001  acc: 0.8226
+epoch 9    train auc: 0.9228  acc: 0.8442    eval auc: 0.9068  acc: 0.8306    test auc: 0.9058  acc: 0.8296
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.5169  acc: 0.5120    eval auc: 0.4756  acc: 0.4841    test auc: 0.4772  acc: 0.4834
+epoch 1    train auc: 0.5221  acc: 0.5153    eval auc: 0.4658  acc: 0.4764    test auc: 0.4682  acc: 0.4779
+epoch 2    train auc: 0.5227  acc: 0.5157    eval auc: 0.4658  acc: 0.4768    test auc: 0.4661  acc: 0.4757
+epoch 3    train auc: 0.5220  acc: 0.5153    eval auc: 0.4673  acc: 0.4779    test auc: 0.4671  acc: 0.4771
+epoch 4    train auc: 0.5202  acc: 0.5144    eval auc: 0.4696  acc: 0.4797    test auc: 0.4703  acc: 0.4777
+epoch 5    train auc: 0.5193  acc: 0.5136    eval auc: 0.4707  acc: 0.4794    test auc: 0.4726  acc: 0.4801
+epoch 6    train auc: 0.5163  acc: 0.5124    eval auc: 0.4773  acc: 0.4845    test auc: 0.4746  acc: 0.4827
+epoch 7    train auc: 0.5152  acc: 0.5114    eval auc: 0.4772  acc: 0.4836    test auc: 0.4789  acc: 0.4846
+epoch 8    train auc: 0.5109  acc: 0.5073    eval auc: 0.4833  acc: 0.4899    test auc: 0.4850  acc: 0.4904
+epoch 9    train auc: 0.8848  acc: 0.8034    eval auc: 0.8793  acc: 0.8014    test auc: 0.8768  acc: 0.7985

@@ -1,0 +1,134 @@
+nohup: ignoring input
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8857  acc: 0.8044    eval auc: 0.8815  acc: 0.8023    test auc: 0.8798  acc: 0.7998
+epoch 1    train auc: 0.8903  acc: 0.8075    eval auc: 0.8860  acc: 0.8048    test auc: 0.8844  acc: 0.8030
+epoch 2    train auc: 0.8925  acc: 0.8098    eval auc: 0.8871  acc: 0.8062    test auc: 0.8856  acc: 0.8050
+epoch 3    train auc: 0.8943  acc: 0.8121    eval auc: 0.8871  acc: 0.8059    test auc: 0.8851  acc: 0.8042
+epoch 4    train auc: 0.8973  acc: 0.8156    eval auc: 0.8872  acc: 0.8060    test auc: 0.8859  acc: 0.8052
+epoch 5    train auc: 0.9036  acc: 0.8228    eval auc: 0.8896  acc: 0.8101    test auc: 0.8886  acc: 0.8086
+epoch 6    train auc: 0.9101  acc: 0.8300    eval auc: 0.8927  acc: 0.8136    test auc: 0.8914  acc: 0.8122
+epoch 7    train auc: 0.9159  acc: 0.8368    eval auc: 0.8948  acc: 0.8160    test auc: 0.8938  acc: 0.8154
+epoch 8    train auc: 0.9215  acc: 0.8429    eval auc: 0.8946  acc: 0.8161    test auc: 0.8936  acc: 0.8162
+epoch 9    train auc: 0.9266  acc: 0.8495    eval auc: 0.8963  acc: 0.8184    test auc: 0.8953  acc: 0.8167
+运行时间： 110.402286 秒
+运行时间： 110402.28600000001 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8888  acc: 0.8068    eval auc: 0.8847  acc: 0.8042    test auc: 0.8834  acc: 0.8022
+epoch 1    train auc: 0.8931  acc: 0.8099    eval auc: 0.8884  acc: 0.8067    test auc: 0.8868  acc: 0.8052
+epoch 2    train auc: 0.8948  acc: 0.8119    eval auc: 0.8890  acc: 0.8084    test auc: 0.8874  acc: 0.8067
+epoch 3    train auc: 0.8976  acc: 0.8146    eval auc: 0.8892  acc: 0.8079    test auc: 0.8875  acc: 0.8067
+epoch 4    train auc: 0.9069  acc: 0.8256    eval auc: 0.8935  acc: 0.8143    test auc: 0.8928  acc: 0.8131
+epoch 5    train auc: 0.9157  acc: 0.8366    eval auc: 0.8975  acc: 0.8194    test auc: 0.8975  acc: 0.8183
+epoch 6    train auc: 0.9237  acc: 0.8460    eval auc: 0.9013  acc: 0.8242    test auc: 0.9009  acc: 0.8234
+epoch 7    train auc: 0.9289  acc: 0.8526    eval auc: 0.9046  acc: 0.8276    test auc: 0.9040  acc: 0.8267
+epoch 8    train auc: 0.9354  acc: 0.8600    eval auc: 0.9031  acc: 0.8259    test auc: 0.9037  acc: 0.8260
+epoch 9    train auc: 0.9390  acc: 0.8650    eval auc: 0.9070  acc: 0.8307    test auc: 0.9064  acc: 0.8294
+运行时间： 129.56844999999998 秒
+运行时间： 129568.44999999998 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8905  acc: 0.8075    eval auc: 0.8865  acc: 0.8050    test auc: 0.8853  acc: 0.8035
+epoch 1    train auc: 0.8942  acc: 0.8103    eval auc: 0.8895  acc: 0.8071    test auc: 0.8878  acc: 0.8062
+epoch 2    train auc: 0.9023  acc: 0.8209    eval auc: 0.8937  acc: 0.8142    test auc: 0.8921  acc: 0.8130
+epoch 3    train auc: 0.9148  acc: 0.8359    eval auc: 0.9014  acc: 0.8232    test auc: 0.8998  acc: 0.8220
+epoch 4    train auc: 0.9246  acc: 0.8471    eval auc: 0.9052  acc: 0.8269    test auc: 0.9039  acc: 0.8256
+epoch 5    train auc: 0.9327  acc: 0.8573    eval auc: 0.9076  acc: 0.8304    test auc: 0.9065  acc: 0.8293
+epoch 6    train auc: 0.9391  acc: 0.8655    eval auc: 0.9090  acc: 0.8326    test auc: 0.9077  acc: 0.8304
+epoch 7    train auc: 0.9423  acc: 0.8696    eval auc: 0.9102  acc: 0.8338    test auc: 0.9092  acc: 0.8327
+epoch 8    train auc: 0.9479  acc: 0.8772    eval auc: 0.9074  acc: 0.8318    test auc: 0.9076  acc: 0.8322
+epoch 9    train auc: 0.9515  acc: 0.8824    eval auc: 0.9113  acc: 0.8347    test auc: 0.9099  acc: 0.8332
+运行时间： 139.693543 秒
+运行时间： 139693.543 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8917  acc: 0.8084    eval auc: 0.8880  acc: 0.8067    test auc: 0.8865  acc: 0.8048
+epoch 1    train auc: 0.8947  acc: 0.8107    eval auc: 0.8898  acc: 0.8074    test auc: 0.8881  acc: 0.8067
+epoch 2    train auc: 0.9094  acc: 0.8292    eval auc: 0.8996  acc: 0.8221    test auc: 0.8982  acc: 0.8194
+epoch 3    train auc: 0.9233  acc: 0.8460    eval auc: 0.9067  acc: 0.8291    test auc: 0.9053  acc: 0.8269
+epoch 4    train auc: 0.9352  acc: 0.8607    eval auc: 0.9121  acc: 0.8359    test auc: 0.9119  acc: 0.8349
+epoch 5    train auc: 0.9429  acc: 0.8705    eval auc: 0.9146  acc: 0.8388    test auc: 0.9143  acc: 0.8380
+epoch 6    train auc: 0.9469  acc: 0.8761    eval auc: 0.9138  acc: 0.8384    test auc: 0.9134  acc: 0.8369
+epoch 7    train auc: 0.9505  acc: 0.8810    eval auc: 0.9144  acc: 0.8384    test auc: 0.9141  acc: 0.8381
+epoch 8    train auc: 0.9546  acc: 0.8870    eval auc: 0.9112  acc: 0.8361    test auc: 0.9121  acc: 0.8369
+epoch 9    train auc: 0.9551  acc: 0.8879    eval auc: 0.9153  acc: 0.8394    test auc: 0.9153  acc: 0.8394
+运行时间： 153.514171 秒
+运行时间： 153514.171 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8918  acc: 0.8088    eval auc: 0.8883  acc: 0.8073    test auc: 0.8869  acc: 0.8054
+epoch 1    train auc: 0.8977  acc: 0.8144    eval auc: 0.8922  acc: 0.8104    test auc: 0.8903  acc: 0.8082
+epoch 2    train auc: 0.9191  acc: 0.8404    eval auc: 0.9078  acc: 0.8307    test auc: 0.9067  acc: 0.8284
+epoch 3    train auc: 0.9309  acc: 0.8555    eval auc: 0.9133  acc: 0.8377    test auc: 0.9135  acc: 0.8365
+epoch 4    train auc: 0.9389  acc: 0.8653    eval auc: 0.9169  acc: 0.8406    test auc: 0.9162  acc: 0.8399
+epoch 5    train auc: 0.9445  acc: 0.8728    eval auc: 0.9191  acc: 0.8435    test auc: 0.9182  acc: 0.8422
+epoch 6    train auc: 0.9474  acc: 0.8765    eval auc: 0.9204  acc: 0.8454    test auc: 0.9203  acc: 0.8441
+epoch 7    train auc: 0.9501  acc: 0.8807    eval auc: 0.9204  acc: 0.8450    test auc: 0.9203  acc: 0.8437
+epoch 8    train auc: 0.9540  acc: 0.8862    eval auc: 0.9188  acc: 0.8444    test auc: 0.9190  acc: 0.8436
+epoch 9    train auc: 0.9564  acc: 0.8884    eval auc: 0.9185  acc: 0.8436    test auc: 0.9186  acc: 0.8433
+运行时间： 208.606396 秒
+运行时间： 208606.39599999998 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8909  acc: 0.8075    eval auc: 0.8876  acc: 0.8061    test auc: 0.8859  acc: 0.8039
+epoch 1    train auc: 0.8941  acc: 0.8109    eval auc: 0.8894  acc: 0.8082    test auc: 0.8878  acc: 0.8055
+epoch 2    train auc: 0.9126  acc: 0.8334    eval auc: 0.9036  acc: 0.8268    test auc: 0.9020  acc: 0.8244
+epoch 3    train auc: 0.9258  acc: 0.8485    eval auc: 0.9130  acc: 0.8361    test auc: 0.9122  acc: 0.8348
+epoch 4    train auc: 0.9373  acc: 0.8630    eval auc: 0.9190  acc: 0.8438    test auc: 0.9190  acc: 0.8435
+epoch 5    train auc: 0.9402  acc: 0.8678    eval auc: 0.9199  acc: 0.8458    test auc: 0.9195  acc: 0.8445
+epoch 6    train auc: 0.9439  acc: 0.8715    eval auc: 0.9216  acc: 0.8469    test auc: 0.9210  acc: 0.8453
+epoch 7    train auc: 0.9471  acc: 0.8762    eval auc: 0.9221  acc: 0.8473    test auc: 0.9217  acc: 0.8479
+epoch 8    train auc: 0.9484  acc: 0.8784    eval auc: 0.9227  acc: 0.8491    test auc: 0.9229  acc: 0.8480
+epoch 9    train auc: 0.9520  acc: 0.8840    eval auc: 0.9222  acc: 0.8485    test auc: 0.9220  acc: 0.8483
+运行时间： 331.519742 秒
+运行时间： 331519.742 毫秒
+reading rating file ...
+splitting dataset ...
+reading KG file ...
+n_entity: 182011
+n_relation: 12
+constructing knowledge graph ...
+constructing ripple set ...
+epoch 0    train auc: 0.8894  acc: 0.8068    eval auc: 0.8865  acc: 0.8064    test auc: 0.8845  acc: 0.8042
+epoch 1    train auc: 0.8927  acc: 0.8101    eval auc: 0.8888  acc: 0.8082    test auc: 0.8862  acc: 0.8056
+epoch 2    train auc: 0.9109  acc: 0.8307    eval auc: 0.9024  acc: 0.8234    test auc: 0.9016  acc: 0.8222
+epoch 3    train auc: 0.9217  acc: 0.8441    eval auc: 0.9105  acc: 0.8331    test auc: 0.9092  acc: 0.8317
+epoch 4    train auc: 0.9261  acc: 0.8497    eval auc: 0.9137  acc: 0.8379    test auc: 0.9132  acc: 0.8369
+epoch 5    train auc: 0.9312  acc: 0.8566    eval auc: 0.9152  acc: 0.8406    test auc: 0.9147  acc: 0.8394
+epoch 6    train auc: 0.9347  acc: 0.8602    eval auc: 0.9184  acc: 0.8436    test auc: 0.9176  acc: 0.8413
+epoch 7    train auc: 0.9363  acc: 0.8628    eval auc: 0.9186  acc: 0.8444    test auc: 0.9183  acc: 0.8435
+epoch 8    train auc: 0.9396  acc: 0.8668    eval auc: 0.9194  acc: 0.8453    test auc: 0.9192  acc: 0.8448
+epoch 9    train auc: 0.9422  acc: 0.8699    eval auc: 0.9222  acc: 0.8472    test auc: 0.9213  acc: 0.8459
+运行时间： 554.726311 秒
+运行时间： 554726.311 毫秒
