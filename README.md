@@ -1,6 +1,7 @@
 # QuatNet
-# Based on RippleNet1.1, we plan to modify the number of triplets in each ripple set. As interest propagates further with the ripple set, the user's interest gradually decreases. Therefore, the number of ripple triplets should also decrease. For example, if we modify the number of ripple triplets to 32 for the 1-hop and 16 for the 2-hop, experiments have shown that there is a certain improvement, although it is minimal.
-# Currently, QuatNet is a model with a convolutional quaternion version, but the convolutional output channels are fixed.
+Based on RippleNet1.1, we plan to modify the number of triplets in each ripple set. As interest propagates further with the ripple set, the user's interest gradually decreases. Therefore, the number of ripple triplets should also decrease. For example, if we modify the number of ripple triplets to 32 for the 1-hop and 16 for the 2-hop, experiments have shown that there is a certain improvement, although it is minimal.
+
+Currently, QuatNet is a model with a convolutional quaternion version, but the convolutional output channels are fixed.
 
 This repository is a **PyTorch** implementation of QuatNet:
 Based on RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems  
